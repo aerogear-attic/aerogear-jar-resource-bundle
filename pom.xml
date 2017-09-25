@@ -24,7 +24,7 @@
   <groupId>org.aerogear</groupId>
   <artifactId>aerogear-jar-resource-bundle</artifactId>
   <name>AeroGear JAR Resource Bundle</name>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.1-SNAPSHOT</version>
   <description>
     An archive which contains templates for generating the necessary license files and notices for all AeroGear releases.
   </description>
