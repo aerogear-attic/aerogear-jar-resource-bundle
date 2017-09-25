@@ -15,6 +15,14 @@ target/
 /target
 */target
 
+# IDEA
+.idea/
+*.class
+*.iml
+.classpath
+.project
+.settings/
+
 # Package Files #
 *.jar
 *.war
