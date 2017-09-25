@@ -15,6 +15,18 @@ target/
 /target
 */target
 
+#Maven release files
+*.releaseBackup
+release.properties
+
+# IDEA
+.idea/
+*.class
+*.iml
+.classpath
+.project
+.settings/
+
 # Package Files #
 *.jar
 *.war
